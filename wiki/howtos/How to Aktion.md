@@ -23,8 +23,9 @@ Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfra
 
 Wenn wir das wissen sollten wir folgendes klären:
 
+- Finden wir die Aktion politisch unterstützenswert?
 - Finden sich genug Menschen für alle Phasen und Bereiche des Projekts (also nicht nur in der Aktion, sondern auch Kommunikation mit der Aktionsorga, Vorbereitung, Bestellung, Aufbau, Abbau, Nachbereitung)
-- 
+
 ## Gruppenfindung
 Als nächstes die Kochaktion über den Infochannel ankündigen, sodass sich noch weitere Personen aus dem "Dunstkreis" an der Aktionsvorbereitung beteiligen können!
 
@@ -32,12 +33,13 @@ Als nächstes die Kochaktion über den Infochannel ankündigen, sodass sich noch
 
 Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte Gedanken zu machen:
 
-- Calculation (siehe [[Mengenkalkulation]])
-- Was und wie viel muss vorab bestellt werden?
-- Welches Material brauchen wir? Müssen wir noch Material anschaffen oder ausleihen?
-- Haben wir alle Informationen und Materialien für den [[Küchenaufbau]]?
-- Welche Einkaufsmöglichkeiten gibt es vor Ort?
-- Logistik: Wie kommt das Material an den Ort?
+- Welche Einkaufsmöglichkeiten gibt es vor Ort (für Lebensmittel und Gas)? Gibt es vor Ort Strukturen, mit denen wir kooperieren könnten (wie solidarische Landwirtschaften)?
+- Sollten Lebensmittel vorbestellt werden? Siehe auch [[Mengenkalkulation]].
+- Welches Kochequipment brauchen wir? Ist alles vorhanden und in gutem Zustand? Müssen wir noch Material anschaffen oder ausleihen?
+- Haben wir alle Informationen und Materialien für den [[Küchenaufbau]]? Also Infos zu Strom, Frischwasser, Abwasser, Untergrund, Zufahrtsmöglichkeiten usw. Siehe auch [[Küchenaufbau]].
+- Logistik: Wie kommt das Material an den Ort? Gibt es vor Ort einen Transporter für Besorgungen?
+- Gibt es eine Kühlmöglichkeit vor Ort?
+- Ermitteln, welchen Strombedarf wir haben und abklären, ob "genügend" Strom da ist.
 - Communication & Crewcare
 - Coordinations
 
@@ -85,3 +87,6 @@ Details und eine Checkliste zum Abbau findest du unter [[Küchenabbau]].
 ## Nach der Aktion
 
 ### Die Nachbereitung
+
+- Was haben wir gelernt, Was ist gut gelaufen, was ist schlecht gelaufen?
+- Was kann konkret in Zukunft mitgedacht werden?
