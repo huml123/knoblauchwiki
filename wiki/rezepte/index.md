@@ -4,6 +4,12 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 <!--- ![](images/KF_Kelle.png) --->
 
+### Basics
+
+* [[Reis|Reis kochen in großen Mengen]]
+* [[Nudeln|Nudeln kochen in großen Mengen]]
+* [[Kaffee|Kaffee machen in großen Mengen]] 
+
 ### Frühstück
 
 * [[Overnight Oats]]
