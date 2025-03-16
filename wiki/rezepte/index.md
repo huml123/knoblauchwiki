@@ -53,6 +53,10 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [[Röstkürbis]]
 * [[Adis Bil Hamod]]
 
+### Beilagen
+
+* [[Senfkohlpfanne]]
+
 ### Backen
 
 * [[Yufka]]
