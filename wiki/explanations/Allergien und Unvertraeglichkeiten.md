@@ -22,6 +22,7 @@ Für die Küche ist es wichtig zu wissen, ob es sich um eine echte Allergie oder
 Im folgenden die Häufigen Unverträglichkeiten denen wir immer wieder begegnen und besondere Achtung schenken sollten:
 
 **Beispiele von Unverträglichkeiten**
+
 * Histaminunverträglichkeit: Personen vertragen oft kein frisches Obst, Zitronensaft, oder auch die Früchte der Nachtschattengewächse (Aubergine, Tomate, Zucchini, ...). Symptome und Auslöser variieren stark von Person zu Person, individuelle Abstimmung ist daher nötig.
 * Zöliakie: Ein Fachbegriff für eine starke und besondere Glutenunverträglichkeit. Problematisch ist Teils schon wenn im selben Raum Mehl verarbeitet wurde wegen des Staubs. Beachte: Auch die Meisten Sojasaucen enthalten Gluten, genau wie die meisten Gemüsebrühpulver, von der Lebensmittelindustrie wird Gluten gerne auch überall beigesetzt, so enthalten beispielsweise Haferflocken übliucherweise Gluten, wenn auch Hafer eigentlich Glutenfrei ist.
 * Fructoseunverträglichkeit: Personen vertragen keinen Fruchtzucker. Frische Früchte sind daher tabu, aber auch Marmeladen oder Säfte ebenso problematisch.
@@ -31,6 +32,7 @@ Im folgenden die Häufigen Unverträglichkeiten denen wir immer wieder begegnen 
 Der [Lebensmittelverband](https://www.lebensmittelverband.de/de/lebensmittel/kennzeichnung/allergene) legt in Deutschland die Liste der zu kennzeichnenden Allergene fest. Viele davon fallen aufgrund unserer Beschränkung auf nicht-tierische Produkte weg, die folgenden bleiben aber relevant:
 
 **Kennzeichnungspflichtige Allergene**
+
 * Glutenhaltiges Getreide
 * Erdnüsse
 * Soja
@@ -46,6 +48,7 @@ Der [Lebensmittelverband](https://www.lebensmittelverband.de/de/lebensmittel/ken
 Gestzlich sind wir nach der LMIDV (Lebensmittelinformations-Durchführungsverordnung) in Deutschland als "in Verkehr bringende" von Lebensmitteln verpflichtet angemessen über die üblichen oben aufgeführten Allergene zu informieren. In ganz Europa ist die rechtliche Stellung ähnlich, da diese Bundesverordnung lediglich das geltende Europarecht umsetzt, in der Schweiz ist die Situation undurchsichtig.
 
 Es hat sich bewährt wiederverwendbare *Allergielisten* zu laminieren auf denen die Kochenden dann die entsprechenden Allergene ankreuzen. Damit ist dem Gesetz zur Informationspflicht zwar Genüge getan. Darüber hinaus empfiehlt sich aber zusätzlich das folgende Verfahren:
+
 * Möglichst vor Kochbeginn Informationen zu Allergien und Unverträglichkeiten sammeln.
 * Eine konkrete Person benennen die die Verantwortung trägt, sich um die Allergielisten zu kümmern und wenn nötig Allergie/Unverträglichkeitenkonformes weiteres Essen zu kochen oder Essen beiseitezunehmen bevor bestimmte Zutaten hineinkommen.
 * Eine spezielle Anlaufstelle bereitstellen, an die sich die Menschen mit Allergien und Unverträglichkeiten zur Erhaltung ihres Essens oder zur Bertatung wenden können. Besonders bei einigen Unverträglichkeiten bestehen oft genaue Fragen ob der Zutaten des gekochten, dafür sollten an der Anlaufstelle die *vollständigen* Zutatenlisten der Essensteile bereitliegen.
