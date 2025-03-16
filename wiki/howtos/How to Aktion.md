@@ -4,6 +4,8 @@ Die "Aktion" ist mit der Kerninhalt der mobilen KüFa. Dabei handelt es sich hä
 
 Aber es gibt dennoch Gemeinsamkeiten und Aufgaben die immer gleich oder zumindest ähnlich sind. Daher gibt es hier Checklisten und Leitfäden, die das Vorbereiten erleichtern sollen.
 
+Yolo
+
 ## Die Anfrage
 
 Werden wir für eine Aktion angefragt, sollte zunächst geklärt werden, was wir brauchen um die Anfrage anzunehmen oder abzulehnen.
