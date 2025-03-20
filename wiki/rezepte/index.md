@@ -56,6 +56,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 ### Beilagen
 
 * [[Senfkohlpfanne]]
+* [[Bohnenbeilage]]
 
 ### Backen
 
