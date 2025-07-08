@@ -6,7 +6,7 @@ Was wird gekocht? Kommuniziert mit dem Rest was ihr wann kocht und was ihr aus d
 
 Wer kümmert sich um [[Allergien und Unvertraeglichkeiten|Allergieessen]]?
 
-Macht euch mit dem Equipment vertraut, wie funktioniert der Gasbrenner etc. (siehe [[Gassystem]], [[Paella Brenner How-To]]).
+Macht euch mit dem Equipment vertraut, wie funktioniert der Gasbrenner etc. (siehe [[Gassystem]], [[Paella Brenner]]).
 
 Stimmt euch ab wann welche Komponenten fertig sein sollen? Braucht ihr noch helfende Menschen? (rühren, panieren etc.?)
 
