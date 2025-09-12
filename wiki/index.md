@@ -6,16 +6,16 @@
 
 #### Kochen
 
-* [Nudeln kochen für >100 Personen](howtos/nudeln)
-* [Reis kochen für > 100 Personen](howtos/reis)
-* [How-to make Overnight Oats](Overnight%20Oats.md)
-* [How-to make coffee](howtos/coffee)
+* [Nudeln kochen für >100 Personen](nudeln)
+* [Reis kochen für > 100 Personen](reis)
+* [How-to make Overnight Oats](Porridge)
+* [How-to make coffee](Kaffee)
 * [How-to Paella Brenner](paella-brenner.md)
 
 #### Infrastruktur
 
 * [How-to Fettabscheider reinigen](Abwasser.md)
-* [How to SG-Zelt aufbauen und abbauen]()
+* How to SG-Zelt aufbauen und abbauen
 * [How-to Spülstraße](Spülstraße.md)
 * How-to Gasanlage prüfen
 * How-to Geka Kupplung
