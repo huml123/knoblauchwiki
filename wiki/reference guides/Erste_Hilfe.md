@@ -1,6 +1,6 @@
 # Verletzungen in der Küche
 
-![[medi.png]]
+![[medic.png]]
 
 Die Verletzungen die in einer Küche auftreten sind relativ speziell.
 Daher ist oft, wenn z.B. nur ein KFZ-Verbandskasten da ist, genau das, was gebraucht werden würde, nicht dabei.

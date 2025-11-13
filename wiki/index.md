@@ -44,7 +44,7 @@
 * Brenner
 * [[Brandschutz#Feuerlöscher|Feuerlöscher]]
 * [[50L-Warmwasserboiler]]
-* [[Erste-Hilfe]](Erste-Hilfe.md)
+* [Erste-Hilfe](Erste_Hilfe.md)
 
 ### Explanations
 
