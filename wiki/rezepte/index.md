@@ -70,16 +70,17 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Saucen
 
-* [[Ketchup]]
-* [[Bechamel Käsesauce]]
-* [[Tahin Zitronen Dip]]
+* [Bechamel](saucen/bechamel.md)
+* [Käsesauce](saucen/bechamel.md)
+* [Bratensauce](saucen/bechamel.md)
 * [Ajoli](saucen/majo.md)
-* [[Bratensauce]]
-* [Chilisauce](saucen/chili.md)
-* [Sour Cream](saucen/majo.md)
-* [Remoulade](saucen/majo.md)
 * [Mayo](saucen/majo.md)
+* [Remoulade](saucen/majo.md)
+* [Sour Cream](saucen/majo.md)
+* [Ketchup](saucen/ketchup.md)
+* [[Tahin Zitronen Dip]]
 * [[Schokosauce]]
+* [Chilisauce](saucen/chili.md)
 
 ### Rezepte anderer Gruppen
 
