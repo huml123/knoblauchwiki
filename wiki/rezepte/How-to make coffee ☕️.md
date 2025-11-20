@@ -1,5 +1,3 @@
-# How-to make coffee ☕️
-
 ![](../images/KF_Coffeecup.png)
 
 Größere Mengen Kaffee kannst du entweder mit einem Jutebeutel oder mit einer Rundfilterkaffeemaschine kochen. Pro Liter fertigen Kaffee brauchst du etwa 30g gemahlenes Pulver.

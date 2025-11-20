@@ -6,10 +6,10 @@
 
 #### Kochen
 
-* [Nudeln kochen für >100 Personen](nudeln)
-* [Reis kochen für > 100 Personen](reis)
-* [How-to make Overnight Oats](Porridge)
-* [How-to make coffee](Kaffee)
+* [[Nudeln kochen in großen Mengen]]
+* [[Reis kochen in großen Mengen]]
+* How to make [[Porridge]]
+* [[How-to make coffee ☕️]]
 * [How-to Paella Brenner](paella-brenner.md)
 
 #### Infrastruktur

@@ -1,5 +1,3 @@
-# Nudeln kochen für > 100 Personen
-
 ![[nudeln.png]]
 
 Gesalzenes Wasser in mehreren 100L Töpfen kochen.

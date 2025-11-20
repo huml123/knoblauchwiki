@@ -1,4 +1,3 @@
-# Aufstriche (von Le Sabot)
 
 *Copied from <https://lesabot.org/?page_id=178>*
 

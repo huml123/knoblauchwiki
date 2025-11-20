@@ -6,21 +6,19 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Basics
 
-* [Reis|Reis kochen in großen Mengen](Reis.md)
-* [Nudeln|Nudeln kochen in großen Mengen](Nudeln.md)
-
+* [[Reis kochen in großen Mengen]]
+* [[Nudeln kochen in großen Mengen]]
 ### Getränke
 
-* [Kaffee|Kaffee machen in großen Mengen](Kaffee.md)
-* [Eistee](Eistee.md)
+* [[How-to make coffee ☕️]]
+* [[Eistee]]
 * [[Punsch]]
 
 ### Frühstück
 
 * [[Overnight Oats]]
-* [Porridge](Porridge.md)
-* [Reisfrühstück|Herzhaftes Reisfrühstück](Reisfrühstück)
-
+* [[Porridge]]
+* [[Reisfrühstück]]
 ### Aufstriche
 
 * [[Tomatenbutter]]
@@ -29,7 +27,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [[Hoummous]]
 * [[Schokoaufstrich]]
 * [[Aprikosencurry]]
-* [Aufstriche von Le Sabot](sabot_aufstriche.md)
+* [[Aufstriche (von Le Sabot)]]
 
 ### Hauptgerichte
 
@@ -91,7 +89,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 ### Rezepte anderer Gruppen
 
 * [Rezepte von Food4Action](https://food4action.noblogs.org/rezepte/)
-* [Brotauftriche von Le Sabot](sabot_aufstriche.md)
+* [Brotauftriche von Le Sabot](Aufstriche%20(von%20Le%20Sabot).md)
 * [Suppen von Le Sabot](https://lesabot.org/?page_id=180)
 
 Wenn du Rezepte oder Rezeptideen hast die gut auch in großen Mengen umgesetzt werden können, dann schick sie uns gerne via Mail unter <knoblauch-fahne@riseup.net> oder wenns sein muss auf Instagram.
