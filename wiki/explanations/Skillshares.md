@@ -1,7 +1,6 @@
-…. bei [[Küfa Aktionen]].
+…. bei Küfa Aktionen.
 
 [[Abwasser]]
-[[Frischwasser]]
-[[Mengen abschatzen]]
+Frischwasser
+Mengen abschatzen
 [[Gassystem]]
-

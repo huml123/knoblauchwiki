@@ -10,27 +10,27 @@ Bevor es richtig los geht sollten sich alle einen Überblick verschaffen und ein
 
 Dann sind folgende vier Arbeitspakete in dieser Reihenfolge anzugehen:
 
-1. [[Arbeitspaket LKW ausladen]]
-2. [[Arbeitspaket Zelte aufbauen]]
-3. [[Arbeitspaket Boden legen]]
-4. [[Arbeitspaket Tische und Regale aufbauen]]
+1. Arbeitspaket LKW ausladen
+2. Arbeitspaket Zelte aufbauen
+3. Arbeitspaket Boden legen
+4. Arbeitspaket Tische und Regale aufbauen
 
 Wenn die Zelte stehen, dann können sie eingeräumt und parallel Strom-, Wasser und Gas verlegt werden:
 
-- [[Arbeitspaket Sortieren]]
-- [[Arbeitspaket Stromversorgung]]
-- [[Arbeitspaket Wasser]]
-- [[Arbeitspaket Gas]]
+- Arbeitspaket Sortieren
+- Arbeitspaket Stromversorgung
+- Arbeitspaket Wasser
+- Arbeitspaket Gas
 
 Danach können die einzelnen Zelte eingerichtet werden:
 
-- [[Arbeitspaket Spülzelt]]
-- [[Arbeitspaket Küchen- und Kochzelt]]
-- [[Arbeitspaket Ausgabe]]
-- [[Arbeitspaket Schnippelzelt]]
-- [[Arbeitspaket Lager]]
-- [[Arbeitspaket Orgabereich]]
-- [[Arbeitspaket Equipment spülen]]
+- Arbeitspaket Spülzelt
+- Arbeitspaket Küchen- und Kochzelt
+- Arbeitspaket Ausgabe
+- Arbeitspaket Schnippelzelt
+- Arbeitspaket Lager
+- Arbeitspaket Orgabereich
+- Arbeitspaket Equipment spülen
 
 Nicht vergessen:
 

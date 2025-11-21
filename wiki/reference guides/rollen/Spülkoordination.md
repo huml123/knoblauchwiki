@@ -1,6 +1,6 @@
 Siehe auch [[Rollen während einer Kochaktion]].
 ## Deutsch
-- [[Hygiene Einweisung]] für die Menschen die spülen.
+- Hygiene Einweisung für die Menschen die spülen.
 - Du machst dich Vertraut mit dem [[Spülstraße|System mit dem gespült wird]]. (3 Wannen (Grob vorspülen, Spülbecken, klares Wasserbecken) Woher heißes Wasser? Wohin dreckiges Wasser) oder Spülmaschinen.
 - Was muss beim [[Fettabscheider]] beachtet werden?
 - Kommunizieren welche Sachen priorisiert gespült werden sollen (z.B. Küchenequipment)

@@ -5,7 +5,7 @@ Für eine Portion:
 | ---------------- | ------- |
 | Mungbohnen halb  | 75      |
 | Kreuzkümmelsamen | 1,5     |
-| [[Garam Masala]]     | 1       |
+| Garam Masala     | 1       |
 | Kurkuma          | 0,5     |
 | Chili (frisch)   | 1       |
 | Knoblauch        | 1,5     |

@@ -1,7 +1,7 @@
 # Bohnenbeilage
 
-Klassische einfache proteinreiche Bohnenbeilage, gut zu einer Hauptnahrkomponente aus Mais wie [[Polenta]]. 
-Wird sehr gut abgerundet durch eine [[Salsa Verde]], o.ä..
+Klassische einfache proteinreiche Bohnenbeilage, gut zu einer Hauptnahrkomponente aus Mais wie Polenta. 
+Wird sehr gut abgerundet durch eine Salsa Verde, o.ä..
 
 ### Zutaten für 100 Portionen a 250g
 

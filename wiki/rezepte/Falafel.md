@@ -30,7 +30,7 @@ Die **Kichererbsen** müssen für ca. 8 h einweichen, aber werden nicht gekocht.
 Die schön grüne Falafelmasse ist jetzt soweit fertig und sollte möglichst noch eine Stunde  abgedeckt ruhen.
 
 ## Frittieren
-*Siehe auch "How-to [[Frittieren]]".*
+*Siehe auch "How-to Frittieren".*
 
 Dann können kleine Kugeln geformt werden   (2,5 - 3 cm Durchmesser). Zu große Kugeln brauchen zu lange um auch von innen gar zu werden bis die Außenseite kross genug ist. 
 

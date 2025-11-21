@@ -12,21 +12,21 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 * [[How-to make coffee ☕️]]
 * [[Eistee]]
-* [[Punsch]]
+* Punsch
 
 ### Frühstück
 
-* [[Overnight Oats]]
+* Overnight Oats
 * [[Porridge]]
 * [[Reisfrühstück]]
 ### Aufstriche
 
-* [[Tomatenbutter]]
-* [[Karrottenaufstrich]]
-* [[Kürbisaufstrich]]
-* [[Hoummous]]
-* [[Schokoaufstrich]]
-* [[Aprikosencurry]]
+* Tomatenbutter
+* Karrottenaufstrich
+* Kürbisaufstrich
+* Hoummous
+* Schokoaufstrich
+* Aprikosencurry
 * [[Aufstriche (von Le Sabot)]]
 
 ### Hauptgerichte
@@ -36,25 +36,25 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Cashew_Cammenbert/ Cashewbär](Cashew_Cammenbert.md)
 * [Soja Gyros](Soya_Gyros.md)
 * [Bratreis|Bratreis mit Mandelstiften](Bratreis.md)
-* [Goulasch](Goulash.md)
+* Goulasch
 * [Ratatouille](Ratatouille.md)
-* [[Chili con Verduras]]
-* [[Weiße Bohnen Eintopf]]
-* [[Kartoffelstampf mit gebratenem Kohl]]
-* [[Tofu Schnitzel]]
-* [[Paellia]]
-* [[Kichererbsen Curry]]
-* [[Linsen Daal]]
+* Chili con Verduras
+* Weiße Bohnen Eintopf
+* Kartoffelstampf mit gebratenem Kohl
+* Tofu Schnitzel
+* Paellia
+* Kichererbsen Curry
+* Linsen Daal
 * [Moong Dal](Moong_Dal.md)
-* [[Karotteneintopf]]
-* [[Röstkürbis]]
+* Karotteneintopf
+* Röstkürbis
 * [Adis Bil Hamod](Adis_Bil_Hamod.md)
 
 ### Suppen
 
 * [Knoblauchsuppe](Knoblauchsuppe.md)
-* [[Kartoffelsuppe]]
-* [[Kürbissuppe]]
+* Kartoffelsuppe
+* Kürbissuppe
 
 ### Beilagen
 
@@ -71,9 +71,9 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Remoulade](saucen/majo.md)
 * [Sour Cream](saucen/majo.md)
 * [Ketchup](saucen/ketchup.md)
-* [[Verschiedene Pesto]]
-* [[Tahin Zitronen Dip]]
-* [[Schokosauce]]
+* Verschiedene Pesto
+* Tahin Zitronen Dip
+* Schokosauce
 * [Chilisauce](saucen/chili.md)
 
 ### Backen

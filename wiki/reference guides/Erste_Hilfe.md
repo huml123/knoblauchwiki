@@ -22,7 +22,7 @@ Oft haben auch die Sanis vor Ort manches praktisches nicht dabei, oder sind grad
 
 Aus den oben genannten Gründen ist es sinnvoll einen Küchenspezifischen Erste-Hilfe-Koffer zu packen.
 Dieser sollte die Materialien staubdicht und wasserdicht lagern und gut markiert sein, sodass er im Ernstfall schnell auffindbar ist.
-Bei der [[Küchenführung]] sollten alle auf seinen Standort hingewiesen werden.
+Bei der Küchenführung sollten alle auf seinen Standort hingewiesen werden.
 
 Hier ist nun ein Vorschlag einer Packliste für den Medi-Koffer:
 

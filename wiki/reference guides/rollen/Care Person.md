@@ -4,7 +4,7 @@ Siehe auch [[Rollen während einer Kochaktion]].
 ## Deutsch
 Deine Aufgabe ist es während deiner Schicht dich darum zu kümmern, dass es den Menschen während ihrer Schicht gut geht. Du hast dich damit vertraut gemacht wie die Awarnessstrukturen im Camp aussehen und wie du Kontakt zu diesen aufnehmen kannst. 
 
-Du bist keine [[Awareness]] Person, sondern versuchst das miteinander in der Küche angenehm zu gestalten. 
+Du bist keine Awareness Person, sondern versuchst das miteinander in der Küche angenehm zu gestalten. 
 
 Konkret kann das bedeuten die Menschen an das Trinken, Sonnencreme und andere Grundbedürfnisse zu erinnern. Außerdem weißt du wo das erste Hilfe Set der KüFa und der Kontakt zu den Sanis ist. 
 

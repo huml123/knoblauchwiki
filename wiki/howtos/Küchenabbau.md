@@ -3,7 +3,7 @@ Hier ist eine Checkliste, was beim Abbau der Küche alles zu tun ist. Sie soll h
 
 ## Todos
 
-* SG Zelte abbauen ([[How to SG-Zelt aufbauen und abbauen]])
+* SG Zelte abbauen (How to SG-Zelt aufbauen und abbauen)
 * Alles abspülen
 * [[Fettabscheider]] entleeren und säubern
 * Gas zurückbauen

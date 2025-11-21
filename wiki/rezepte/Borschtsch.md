@@ -16,6 +16,6 @@ Anschließend werden Zwiebeln und Knoblauch in Öl mit Wachholder und Lorbeer, s
 
 Für eine feinere Variante bietet es sich an, die Rote Beete nach dem Würfeln separat zu garen, und dann am Ende als Einlage dazuzugeben. Dadurch behält sie die Textur besser, und die Farbe des Gerichtes ist kräftig rot, statt mattbraun.
 
-Als Topping bieten sich Dill und [[Sourcream]] an.
+Als Topping bieten sich Dill und Sourcream an.
 
-Die Gemüsebrühe kann sehr gerne ebenfalls selbst gemacht sein, etwa [[Gemüsebrühe|aus den Schnittabfällen]].
+Die Gemüsebrühe kann sehr gerne ebenfalls selbst gemacht sein, etwa Gemüsebrühe aus den Schnittabfällen.
