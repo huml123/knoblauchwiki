@@ -9,7 +9,7 @@ def main():
     if problems:
         print("MkDocs produced warnings:", file=sys.stderr)
         for problem in problems:
-            print(problem, file=sys.stderr)
+            print(problem)
         sys.exit(1)
 
     print("MkDocs build completed with zero warnings.")

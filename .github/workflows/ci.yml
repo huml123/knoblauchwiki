@@ -1,24 +1,23 @@
-name: ci
+name: "Build & Deploy"
 on:
   push:
     branches:
       - main
 permissions:
   contents: write
+
 jobs:
-  deploy:
+  check_links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-      - uses: actions/cache@v4
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: |
-            pip install pipenv
-            pipenv install
-      - run: pipenv run check_links.py
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - run: pipenv run python check_links.py
+
+  deploy:
+    needs: check_links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
       - run: pipenv run mkdocs gh-deploy --force
