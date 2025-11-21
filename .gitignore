@@ -8,3 +8,4 @@ vendor
 site/
 
 .DS_Store
+.idea
