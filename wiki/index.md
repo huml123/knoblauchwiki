@@ -42,7 +42,7 @@
 * [Küchenabbau](Küchenabbau.md)
 * [Gassystem]()
 * Brenner
-* [[Brandschutz#Feuerlöscher|Feuerlöscher]]
+* [[Brandschutz#Feuerloscher|Feuerlöscher]]
 * [[50L-Warmwasserboiler]]
 * [Erste-Hilfe](Erste_Hilfe.md)
 
