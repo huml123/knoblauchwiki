@@ -11,7 +11,7 @@ Eine Übersicht.
     - Räumlichkeiten vor Ort?
     - Wie viel Platz (qm) können wir haben?
     - Bodenbeschaffenheit?
-    - Parkplätze? Insb. LKW Parkplatz, etwa 18m?
+    - Parkplätze? Insb. LKW Parkplatz, etwa 18m lang?
     - Gibt es eine Lieferadresse an die (ab wann?) Zeug geschickt werden kann?
 
  - Strom:
@@ -32,6 +32,7 @@ Eine Übersicht.
     - Wo können wir Abwasser einleiten?
         - Wir können ca. 50m Distanz mit Schläuchen überbrücken.
     - Gibt es einen Fettabscheider vor Ort?
+    - Können wir unseren Fettabscheider (bis ca. 3000 Portionen pro Mahlzeit geeignet) irgendwo aufbauen?
 
  - Kühlung:
     - Was für Kühlkapazitäten wird es geben?
@@ -58,16 +59,26 @@ Eine Übersicht.
 
  - Schlafsituation:
     - Wo können Küchenleute schlafen?
+        - Wenn gezeltet wird, können wir einen Zeltbereich für Küfaleute nah an der Küche haben?
+        - Wenn Schlafplatzbörse: Ist es möglich, die Schlafplätze möglichst nah zu halten?
 
  - Finanzen:
     - Gibt es einen Geldtopf zur (Vor-)Finanzierung der Aktion?
     - Können wir Spenden sammeln?
-    - Was geschieht mit ungedeckten Kosten? 
+        - Wenn Spendenüberschuss, wie verfahren wir damit?
+        - Wenn Spenden nicht reichen, wie verfahren wir dann?
+    - Was geschieht mit ungedeckten Kosten, falls welche übrigbleiben? 
     - Werden Leute bei der Veranstaltung entlohnt?
         - Aufwandsentschädigungen / Honorare für Sprecher\*innen / Musiker\*innengagen ? 
+    - Kann die Orga einen Beitrag zur Materialpflege/Erhaltung für uns leisten?
 
-
-
-
-
+ - Andere Orgas:
+    - Sind andere Küchenkollektive involviert?
+        - Wer so? Wie viele?
+        - Bringen mehrere Küchen Material? Wie wird getrennt?
+    - Gibt es weitere Verpflegungsoptionen außer uns vor Ort?
+        - Crepestand, Brotbäckerei, Kaffeestand, Getränkestand, ... o.ä.?
+        - Wie handhaben die anderen ihre Finanzen?
+        - Können wir Kontakte zu den anderen bekommen?
+    - Haben wir einheitliche hygienische Standards mit den anderen?
 
