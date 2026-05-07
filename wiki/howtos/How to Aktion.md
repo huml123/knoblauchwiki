@@ -1,47 +1,53 @@
 # Die Aktion: Ein Ablauf
 
 Die "Aktion" ist mit der Kerninhalt der mobilen KüFa. Dabei handelt es sich häufig um eine Veranstaltung, die nicht Monate im Voraus bekannt und an einem beliebigen Ort sein kann.
-
 Aber es gibt dennoch Gemeinsamkeiten und Aufgaben die immer gleich oder zumindest ähnlich sind. Daher gibt es hier Checklisten und Leitfäden, die das Vorbereiten erleichtern sollen.
 
 ## Die Anfrage
 
-Werden wir für eine Aktion angefragt, sollte zunächst geklärt werden, was wir brauchen um die Anfrage anzunehmen oder abzulehnen.
-
-Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfrage annehmen:
+Werden wir für eine Aktion angefragt, brauchen wir für den Entscheidungsprozess ein paar Infos. 
+Damit wir dahingehend aussagekräftige Anfragen erhalten, gibt es einen [Leitfaden für Anfragende Orgas](Anfrage\ an\ die\ Knoblauchfahne.md), welchen wir mit der Orga teilen.
+Mindestens brauchen wir die Infos:
 
 - Wo und wann?
 - Wie viele Leute?
 - Was bezweckt die Aktion?
-- Gib es Wasser, [[Abwasser]], Strom und Toiletten?
-- Müllentsorgung
-- Schlafsituation
-- Gibt es eine Küche vor Ort oder sollten wir eigenes Equipment und eine Feldküche mitbringen
-- Was genau braucht die Aktion von uns? Reicht es euch wenn wir Equipment zur Verfügung stellen und die Teilnehmenden organisieren die Küche selbst oder wärs gut wenn wir während der Aktion die Küche organisieren?
-- Ist geplant dass die Teilnehmenden in der Küche beim Kochen und Abwasch mithelfen? In welchem Umfang?
 - Finanzen
 
-Wenn wir das wissen sollten wir folgendes klären:
+Wenn wir das wissen klären wir:
 
+- Finden sich genug Menschen für alle Phasen und Bereiche des Projekts (also nicht nur in der Aktion, sondern auch Kommunikation mit der Aktionsorga, Vorbereitung, Bestellung, Aufbau, Abbau, Nachbereitung)?
 - Finden wir die Aktion politisch unterstützenswert?
-- Finden sich genug Menschen für alle Phasen und Bereiche des Projekts (also nicht nur in der Aktion, sondern auch Kommunikation mit der Aktionsorga, Vorbereitung, Bestellung, Aufbau, Abbau, Nachbereitung)
 
-## Gruppenfindung
-Als nächstes die Kochaktion über den Infochannel ankündigen, sodass sich noch weitere Personen aus dem "Dunstkreis" an der Aktionsvorbereitung beteiligen können!
+Sollten wir uns für eine Zusage entscheiden, geht es weiter mit den ersten Schritten.
 
-## Die Vorbereitung
+## Gruppe erstellen
 
-Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte Gedanken zu machen:
+ - Eine Signalgruppe zur Aktion erstellen.
+ - Kochaktion im Knoblauchfahnen-Orbit streuen, damit sich dort Personen der Orga anschließen können.
+ - Erstes "Save-The-Date" im Infochannel verschicken
 
-- Welche Einkaufsmöglichkeiten gibt es vor Ort (für Lebensmittel und Gas)? Gibt es vor Ort Strukturen, mit denen wir kooperieren könnten (wie solidarische Landwirtschaften)?
-- Sollten Lebensmittel vorbestellt werden? Siehe auch [[Mengenkalkulation]].
-- Welches Kochequipment brauchen wir? Ist alles vorhanden und in gutem Zustand? Müssen wir noch Material anschaffen oder ausleihen?
-- Haben wir alle Informationen und Materialien für den [[Küchenaufbau]]? Also Infos zu Strom, Frischwasser, Abwasser, Untergrund, Zufahrtsmöglichkeiten usw. Siehe auch [[Küchenaufbau]].
-- Logistik: Wie kommt das Material an den Ort? Gibt es vor Ort einen Transporter für Besorgungen?
-- Gibt es eine Kühlmöglichkeit vor Ort?
-- Ermitteln, welchen Strombedarf wir haben und abklären, ob "genügend" Strom da ist.
-- Communication & Crewcare
-- Coordinations
+## Das erste Orgaplenum
+
+Sobald die Signalgruppe sich füllt, eine Terminanfrage (bspw. mit [Dudle](dud.poll.tu-dresden.de)) für den ersten Plenumstermin in die Gruppe stellen.
+Im ersten Plenum sollten ...
+
+ - ... alle sich kennenlernen
+ - ... geklärt werden, wie zusammengearbeitet wird und in welchem Rhytmus die Orga tagt.
+ - ... die Teilnehmenden transparent machen, wie viel Zeit sie in die Orga stecken wollen & wie viel Verantwortung sie übernehmen wollen.
+ - ... klar gemacht werden, welche [Ressourcen](Ressourcen) von der Knoblauchfahne gestellt werden und worum sich daher nicht gekümmert werden muss.
+ - ... wir gemeinsam die umfangreiche Liste der [Fragen an die Orga](Fragen\ vor\ Aktion.md) durchgehen und auswählen: Welche sind für die Aktion relevant?
+ - ... die [Typischen Orgabereiche und Rollen](Rollen.md) durchgegangen werden, und nach Möglichkeit schon erste verteilt/besetzt.
+
+Damit es einigermaßen flott geht bietet es sich an, wenn zwei Personen das Plenum vorbereiten und dann moderieren.
+
+## Der Orgaprozess
+
+Finden Regelmäßige Plena statt, die gut besucht sind, so läuft der Orgaprozess hier meistens dann ganz organisch.
+Darum sei hier nicht viel dazu gesagt und lediglich eine Übersicht über einige übliche ToDo's der Orga gegeben:
+
+ - Grobe Finanzkalkulation erstellen 
+ - ...
 
 ## Besorgungen
 * Lebensmittel
