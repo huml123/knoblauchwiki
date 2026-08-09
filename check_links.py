@@ -40,7 +40,7 @@ def build() -> str:
     return output
 
 
-def find_problems(output: str) -> list
+def find_problems(output: str) -> list:
     """Searches for warnings and other issues reported during the build.
     Returns:
         List of warning lines found in the output.
