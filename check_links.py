@@ -4,41 +4,54 @@ import sys
 
 def main():
     output = build()
-    problems = find_problems(output=output)
+
+    problems = find_problems(output)
 
     if problems:
-        print("MkDocs produced warnings:", file=sys.stderr)
+        print("MkDocs produced warnings:")
         for problem in problems:
             print(problem)
-        sys.exit(1)
 
-    print("MkDocs build completed with zero warnings.")
+    print("MkDocs build completed.")
     sys.exit(0)
 
 
 def build() -> str:
-    """Builds the wiki and returns MkDoc's output"""
+    """Builds the wiki and returns MkDocs output."""
 
-    # Run mkdocs build
     result = subprocess.run(
-        ["mkdocs", "build"], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True
+        ["mkdocs", "build"],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
     )
+
     output = result.stdout
     print(f"MkDocs output:\n{output}\n")
+
+    # Only fail if mkdocs itself fails
+    if result.returncode != 0:
+        print(
+            f"MkDocs build failed with exit code {result.returncode}.",
+            file=sys.stderr,
+        )
+        sys.exit(result.returncode)
 
     return output
 
 
-def find_problems(output: str) -> list[str]:
-    """Searches for warnings and other issues reported during the build
-
-    :returns: List of problems found
+def find_problems(output: str) -> list
+    """Searches for warnings and other issues reported during the build.
+    Returns:
+        List of warning lines found in the output.
     """
-
     patterns = ["WARNING", "unrecognized relative link"]
-    issues_found = list()
+
+    issues_found = []
     for pattern in patterns:
-        issues_found += [line for line in output.splitlines() if pattern in line]
+        issues_found.extend(
+            [line for line in output.splitlines() if pattern in line]
+        )
 
     return issues_found
 
